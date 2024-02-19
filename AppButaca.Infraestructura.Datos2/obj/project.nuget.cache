@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "ywHxtLY6o1pelEa5QZIexmXsWJrL1eex2ZArOM2r1QrYO1Sj8D7eQGUJTYTDSWSk1DDvBsA/WhDfbAkdpK5A3w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\berec\\OneDrive\\Documentos\\PracticasProgramacion\\C#\\intuitosa\\API_HEXAGONAL\\AppButaca.Infraestructura.Datos2\\AppButaca.Infraestructura.Datos2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\berec\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\berec\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\berec\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\berec\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\berec\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\berec\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>AppButaca.Infraestructura.Datos</id>
+    <version>1.0.0</version>
+    <authors>AppButaca.Infraestructura.Datos</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net6.0">
+        <dependency id="Microsoft.EntityFrameworkCore" version="7.0.15" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.EntityFrameworkCore.SqlServer" version="7.0.15" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\berec\OneDrive\Documentos\PracticasProgramacion\C#\intuitosa\API_HEXAGONAL\AppButaca.Infraestructura.Datos\bin\Debug\net6.0\AppButaca.Infraestructura.Datos.runtimeconfig.json" target="lib\net6.0\AppButaca.Infraestructura.Datos.runtimeconfig.json" />
+    <file src="C:\Users\berec\OneDrive\Documentos\PracticasProgramacion\C#\intuitosa\API_HEXAGONAL\AppButaca.Infraestructura.Datos\bin\Debug\net6.0\AppButaca.Infraestructura.Datos.dll" target="lib\net6.0\AppButaca.Infraestructura.Datos.dll" />
+  </files>
+</package>

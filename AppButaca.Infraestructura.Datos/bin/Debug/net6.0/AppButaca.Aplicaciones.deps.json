@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "AppButaca.Aplicaciones/1.0.0": {
+        "dependencies": {
+          "AppButaca.dominio": "1.0.0"
+        },
+        "runtime": {
+          "AppButaca.Aplicaciones.dll": {}
+        }
+      },
+      "AppButaca.dominio/1.0.0": {
+        "runtime": {
+          "AppButaca.dominio.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AppButaca.Aplicaciones/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AppButaca.dominio/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
